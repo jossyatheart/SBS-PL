@@ -30,5 +30,7 @@
 
 ***Equation***
 
-$$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$$
+$$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$$ : works on StackEdit but not here
+
+<img src="https://latex.codecogs.com/svg.latex?\fn_cm&space;f(k)&space;=&space;{n&space;\choose&space;k}&space;p^{k}&space;(1-p)^{n-k}" title="f(k) = {n \choose k} p^{k} (1-p)^{n-k}" />
 
