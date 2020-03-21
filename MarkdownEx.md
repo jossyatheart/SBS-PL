@@ -8,7 +8,7 @@
 > 
 [This is my link to repository on github](https://github.com/kutaydal7/SBS-PL)
 
- **TO DO LIST **
+ **TO DO LIST**
  *Ordered*
  1.   Headers
  2.   table
